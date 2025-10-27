@@ -1,0 +1,1 @@
+db.unicorns.find({vampires: {$exists: false}})
