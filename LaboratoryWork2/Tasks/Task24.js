@@ -1,0 +1,1 @@
+db.unicorns.createIndex({name: 1}, {unique: true})

@@ -1,0 +1,1 @@
+db.unicorns.dropIndex("name_1")

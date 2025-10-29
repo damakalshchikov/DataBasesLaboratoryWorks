@@ -1,0 +1,1 @@
+db.numbers.createIndex({value: 1})

@@ -1,0 +1,1 @@
+db.towns.remove({})

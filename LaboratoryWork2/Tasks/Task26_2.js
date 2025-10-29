@@ -1,0 +1,1 @@
+db.numbers.explain("executionStats").find().sort({value: -1}).limit(4)

@@ -1,0 +1,1 @@
+db.numbers.find().sort({value: -1}).limit(4)
